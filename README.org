@@ -4,6 +4,6 @@ Bindings library to resvg for easy SVG rendering
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/Shirakumo/cl-resvg.git |
-| commit  | fa996ca                                       |
+| commit  | 5c70b60                                       |
 | systems | cl-resvg                                      |
 |---------+-----------------------------------------------|
