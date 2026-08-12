@@ -7,4 +7,4 @@ Bindings library to resvg for easy SVG rendering
 | commit  | dcb199a                                        |
 | systems | cl-resvg                                       |
 |---------+------------------------------------------------|
- 
+  
